@@ -1,0 +1,4 @@
+class Posicao {
+  Email email,
+  
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289273550306",
+    "project_id": "codexdoprogramador",
+    "storage_bucket": "codexdoprogramador.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289273550306:android:3d1174287635c5746815bb",
+        "android_client_info": {
+          "package_name": "com.example.dictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvNY44shuneXuDDsy6hcAYhH34op-BWDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
